@@ -45,5 +45,5 @@ pub fn sum_of_even_fibonacci_numbers(limit: i32) -> i32 {
 
 #[test]
 fn test_sum_of_even_fibonacci_numbers() {
-    assert_eq!(sum_of_even_fibonacci_numbers(4000_000), 4613732)
+    assert_eq!(sum_of_even_fibonacci_numbers(4000_000), 4613732);
 }

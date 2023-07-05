@@ -21,5 +21,5 @@ fn sum(below: i32, i: i32) -> i32 {
 
 #[test]
 fn test_sum_of_multiples_3_and_5_below_1000() {
-    assert_eq!(sum_of_multiples_3_and_5_below_1000(), 233168)
+    assert_eq!(sum_of_multiples_3_and_5_below_1000(), 233168);
 }
